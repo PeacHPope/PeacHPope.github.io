@@ -1,0 +1,6 @@
+header h1 {
+    text-transform: none !important;
+}
+.logo {
+    background: image("../images/PeacHPope-trans-205x250.png");
+}
